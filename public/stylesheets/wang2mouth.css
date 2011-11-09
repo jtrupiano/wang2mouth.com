@@ -1,0 +1,9 @@
+body {
+  margin: auto;
+  padding: auto;
+  font-family: Helvetica;
+}
+
+#content {
+  text-align: center;
+}
